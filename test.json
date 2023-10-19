@@ -1,0 +1,45 @@
+Subs : [
+    {
+        "channel": "0x82a7a0828fa8eb902f0508620ee305b08634318a",
+        "user_settings": "[{\"type\": 2, \"user\": 3, \"index\": 1, \"ticker\": 1, \"default\": 3, \"enabled\": true, \"lowerLimit\": 1, \"upperLimit\": 5, \"description\": \"Test Settings\"}]"
+    },
+    {
+        "channel": "0x2AEcb6DeE3652dA1dD6b54D5fd4f7D8F43DaEb77",
+        "user_settings": null
+    },
+    {
+        "channel": "0x0000000000000000000000000000000000000000",
+        "user_settings": null
+    },
+    {
+        "channel": "0xb7Ef5555ce8eda19cD5dD64a82894D503046c73e",
+        "user_settings": null
+    },
+    {
+        "channel": "0xce3Cb7781195F2BA6b464133965B56e293DD9ed7",
+        "user_settings": null
+    },
+    {
+        "channel": "0x16651F2F51Da39763c61d145A8028241b875Cf0D",
+        "user_settings": null
+    },
+    {
+        "channel": "0x94051eE59A831E247590cE779DF065dd77EF5d0a",
+        "user_settings": null
+    },
+    {
+        "channel": "0x74415Bc4C4Bf4Baecc2DD372426F0a1D016Fa924",
+        "user_settings": null
+    }
+]
+
+[
+    "0x0ddda6871f1216d7ef56722167652e4f881d74aa",
+    "0x25e30dfe5d243676c5544ba633b6b6ca14bfc980",
+    "0x5ac9e6205eaca2bbba6ef716fd9aabd76326eeee",
+    "0x7154c1ec05456b8ccdbfa0d8ffebf8797ce276ed",
+    "0x82a7a0828fa8eb902f0508620ee305b08634318a",
+    "0xa85ccf0862131b38a898a3afe860797dcbfc08fd",
+    "0xab8a67743325347aa53bcc66850f8f13df87e3af",
+    "0xde1f389eb499ec040ebd60dbccea73de7b37663e"
+]
